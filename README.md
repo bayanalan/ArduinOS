@@ -77,3 +77,5 @@ Open source - feel free to modify and share!
 
 ---
 *v0.1.0 - First public beta*
+
+### More information on our website: https://arduin-os.vercel.app
