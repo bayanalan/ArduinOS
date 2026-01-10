@@ -12,7 +12,7 @@ A unique operating system for **ESP32** that combines a smartwatch-style interfa
 - **Sound Effects** - Buzzer support for UI feedback and games
 - **Screenshots** - Capture the screen to BMP files on SD card
 
-## Hardware Requirements
+## Recommended parts
 
 | Component | Description |
 |-----------|-------------|
