@@ -1,5 +1,8 @@
 # ArduinOS
 
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/b73045d6-c49a-4f39-8abd-827e6eb2a04e" />
+
+
 A unique operating system for **ESP32** that combines a smartwatch-style interface with a Windows 98-inspired desktop environment.
 
 ## Features
