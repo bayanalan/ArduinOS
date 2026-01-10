@@ -484,7 +484,7 @@ void recoverTFT() {
 
 // SD card hot-swap check - returns true if card is present
 bool checkSDCard() {
-  // Try to open root directory - more reliable than cardType()
+  // Try to open root directory - much more reliable than cardType()
   File root = SD.open("/");
   
   // CRITICAL: Full TFT SPI restore after SD card access
