@@ -79,3 +79,5 @@ Open source - feel free to modify and share!
 *v0.1.0 - First public beta*
 
 ### More information on our website: https://arduin-os.vercel.app
+
+#### Also, fun little story, the entire operating system was almost entirely deleted from our computers before backing up to github. There was a good chance we would have had to restart the project if it wasn't for HDD deleted data recovery software.
